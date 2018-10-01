@@ -9,7 +9,7 @@ It's hard. It's always hard the first time you do something. Especially when you
 
 ## Create Your First Pull Request
 1. [Star and Fork this repository](https://help.github.com/articles/fork-a-repo/).
-3. Edit this CONTRIBUTING.md file & append your information at the bottom of this file as follows:
+3. Edit this README.md file & append your information at the bottom of this file as follows:
 
 Sr. No. Name, Profession - Location
 
