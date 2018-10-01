@@ -30,3 +30,4 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Holden Oullette, Digital Developer - Las Vegas, Nevada
 * Tanya Vedi, Student - Delhi, India
 * Siddharth, Student - Delhi, 
+* Adrian teri,Student - Kenya, Nairobi
