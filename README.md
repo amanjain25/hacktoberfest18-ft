@@ -11,9 +11,9 @@ It's hard. It's always hard the first time you do something. Especially when you
 1. [Star and Fork this repository](https://help.github.com/articles/fork-a-repo/).
 3. Edit this README.md file & append your information at the bottom of this file as follows:
 
-Sr. No. Name, Profession - Location
+* Name, Profession - Location
 
-Example: <b>1. Rohit Swami, Student - Haryana, India </b>
+Example: <b>* Rohit Swami, Student - Haryana, India </b>
 
 3. Commit the change to your fork, using a clear and descriptive commit message.
 
@@ -21,5 +21,5 @@ Example: <b>1. Rohit Swami, Student - Haryana, India </b>
 
 # Amazing Contributors :heart:
 
-1. Rohit Swami, Student - Haryana, India
-2. Max Grosshandler, Student - Chicago, Illinois, USA
+* Rohit Swami, Student - Haryana, India
+* Max Grosshandler, Student - Chicago, Illinois, USA
