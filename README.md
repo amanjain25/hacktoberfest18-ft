@@ -22,3 +22,4 @@ Example: <b>1. Rohit Swami, Student - Haryana, India </b>
 # Amazing Contributors :heart:
 
 1. Rohit Swami, Student - Haryana, India
+1. Rui, Student - Portugal
