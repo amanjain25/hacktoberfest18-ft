@@ -40,3 +40,4 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Aman Kumar Soni, Student - Jalandhar,India
 * Ganesh Radhaji Sanap, Student - Maharashtra, India.
 * Rafal Kruk, Developer - Leeds, UK
+* Shad Grimgravy, Developer - Michigan
