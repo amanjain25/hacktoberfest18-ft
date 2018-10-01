@@ -23,14 +23,15 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 
 * Rohit Swami, Student - Haryana, India
 * Max Grosshandler, Student - Chicago, Illinois, USA
+* Aman Jain, Studen - Himachal Pradesh, India
 * Georgi Bojinov, Student - Sofia, Bulgaria
 * Max Morales, Student - El Paso, Texas
 * Nanichang Katzing, Student - Nigeria
 * Kyle Lim, Student - Maryland, USA
 * Holden Oullette, Digital Developer - Las Vegas, Nevada
 * Tanya Vedi, Student - Delhi, India
-* Siddharth, Student - Delhi, 
-* Adrian teri,Student - Kenya, Nairobi
+* Siddharth, Student - Delhi, India
+* Adrian teri, Student - Kenya, Nairobi
 * Dylan, Student - Toronto, Canada
 * Nelson Chinedu, Student - Nigeria
-* Aman Kumar Soni,Student - Jalandhar,India
+* Aman Kumar Soni, Student - Jalandhar,India
