@@ -21,9 +21,10 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 
 # Amazing Contributors :heart:
 
+1. Rohit Swami, Student - Haryana, India
 * Rohit Swami, Student - Haryana, India
 * Max Grosshandler, Student - Chicago, Illinois, USA
-* Aman Jain, Studen - Himachal Pradesh, India
+* Aman Jain, Student - Himachal Pradesh, India
 * Georgi Bojinov, Student - Sofia, Bulgaria
 * Max Morales, Student - El Paso, Texas
 * Nanichang Katzing, Student - Nigeria
@@ -35,7 +36,7 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Adrian teri, Student - Kenya, Nairobi
 * Dylan, Student - Toronto, Canada
 * Nelson Chinedu, Student - Nigeria
-* Aman Kumar Soni,Student - Jalandhar,India
+* Aman Kumar Soni, Student - Jalandhar,India
 * Joseph, Student - India
 * Aman Kumar Soni, Student - Jalandhar,India
 * Ganesh Radhaji Sanap, Student - Maharashtra, India.
