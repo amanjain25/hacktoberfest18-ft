@@ -49,3 +49,4 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Anthony Young, Fullstack Javascript Developer - London, UK
 * Aditya Gaur, Student - Jalandhar, India
 * Vidushi Jain, Student - Noida, India
+* Daniel Gonçalves, Student - Lisbon, Portugal
