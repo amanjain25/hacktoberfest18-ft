@@ -1,4 +1,4 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## What is Hacktoberfest'18?
 Hacktoberfest is a global event which motivates open source contributors to boost up their contribution. As well as it is a month-long celebration of open source software in partnership with GitHub. In addition to that by contributing to this challenge you can earn a limited edition T-Shirt.
@@ -23,7 +23,8 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 
 * Rohit Swami, Student - Haryana, India
 * Max Grosshandler, Student - Chicago, Illinois, USA
-* Aman Jain, Studen - Himachal Pradesh, India
+* Neha Gautam, Student - Rajasthan, India
+* Aman Jain, Student - Himachal Pradesh, India
 * Georgi Bojinov, Student - Sofia, Bulgaria
 * Max Morales, Student - El Paso, Texas
 * Nanichang Katzing, Student - Nigeria
@@ -35,7 +36,7 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Adrian teri, Student - Kenya, Nairobi
 * Dylan, Student - Toronto, Canada
 * Nelson Chinedu, Student - Nigeria
-* Aman Kumar Soni,Student - Jalandhar,India
+* Aman Kumar Soni, Student - Jalandhar,India
 * Joseph, Student - India
 * Aman Kumar Soni, Student - Jalandhar,India
 * Ganesh Radhaji Sanap, Student - Maharashtra, India.
@@ -46,5 +47,10 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 *  Grady Houston, Developer - Washington, D.C., USA
 * Tristan Caulfield, Team Lead - Memphis, Tennessee, USA
 * Anthony Young, Fullstack Javascript Developer - London, UK
+* Aditya Gaur, Student - Jalandhar, India
 * Vidushi Jain, Student - Noida, India
 * Sidhya Tikku, Student - New Delhi, India
+* Swapnil Rustagi, Student - Himachal Pradesh, India
+* Priyal Sobti, Student - Delhi, India
+* Sheel Shah, Student - London, UK
+* Daniel Gonçalves, Student - Lisbon, Portugal
