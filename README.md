@@ -30,9 +30,21 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Nanichang Katzing, Student - Nigeria
 * Kyle Lim, Student - Maryland, USA
 * Holden Oullette, Digital Developer - Las Vegas, Nevada
+* Aditya choudhary, Student- Delhi, India
 * Tanya Vedi, Student - Delhi, India
 * Siddharth, Student - Delhi, India
 * Adrian teri, Student - Kenya, Nairobi
 * Dylan, Student - Toronto, Canada
 * Nelson Chinedu, Student - Nigeria
 * Aman Kumar Soni, Student - Jalandhar,India
+* Joseph, Student - India
+* Aman Kumar Soni, Student - Jalandhar,India
+* Ganesh Radhaji Sanap, Student - Maharashtra, India.
+* Rafal Kruk, Developer - Leeds, UK
+* Vishal Anand, Student - Himachal Pradesh, India
+* Giovanni Nuño, Student - Guanajuato, Mexico
+* Shad Grimgravy, Developer - Michigan
+*  Grady Houston, Developer - Washington, D.C., USA
+* Tristan Caulfield, Team Lead - Memphis, Tennessee, USA
+* Anthony Young, Fullstack Javascript Developer - London, UK
+* Vidushi Jain, Student - Noida, India
