@@ -21,7 +21,6 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 
 # Amazing Contributors :heart:
 
-1. Rohit Swami, Student - Haryana, India
 * Rohit Swami, Student - Haryana, India
 * Max Grosshandler, Student - Chicago, Illinois, USA
 * Aman Jain, Student - Himachal Pradesh, India
@@ -49,5 +48,6 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Anthony Young, Fullstack Javascript Developer - London, UK
 * Aditya Gaur, Student - Jalandhar, India
 * Vidushi Jain, Student - Noida, India
+* Priyal Sobti, Student - Delhi, India
 * Sheel Shah, Student - London, UK
 * Daniel Gonçalves, Student - Lisbon, Portugal
