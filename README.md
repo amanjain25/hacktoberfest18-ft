@@ -41,3 +41,5 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Ganesh Radhaji Sanap, Student - Maharashtra, India.
 * Rafal Kruk, Developer - Leeds, UK
 * Shad Grimgravy, Developer - Michigan
+*  Grady Houston, Developer - Washington, D.C., USA
+* Tristan Caulfield, Team Lead - Memphis, Tennessee, USA
