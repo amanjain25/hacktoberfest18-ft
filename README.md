@@ -23,7 +23,7 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 
 * Rohit Swami, Student - Haryana, India
 * Max Grosshandler, Student - Chicago, Illinois, USA
-* Aman Jain, Studen - Himachal Pradesh, India
+* Aman Jain, Student - Himachal Pradesh, India
 * Georgi Bojinov, Student - Sofia, Bulgaria
 * Max Morales, Student - El Paso, Texas
 * Nanichang Katzing, Student - Nigeria
@@ -35,7 +35,7 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Adrian teri, Student - Kenya, Nairobi
 * Dylan, Student - Toronto, Canada
 * Nelson Chinedu, Student - Nigeria
-* Aman Kumar Soni,Student - Jalandhar,India
+* Aman Kumar Soni, Student - Jalandhar,India
 * Joseph, Student - India
 * Aman Kumar Soni, Student - Jalandhar,India
 * Ganesh Radhaji Sanap, Student - Maharashtra, India.
@@ -46,5 +46,8 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 *  Grady Houston, Developer - Washington, D.C., USA
 * Tristan Caulfield, Team Lead - Memphis, Tennessee, USA
 * Anthony Young, Fullstack Javascript Developer - London, UK
+* Aditya Gaur, Student - Jalandhar, India
 * Vidushi Jain, Student - Noida, India
 * Priyal Sobti, Student - Delhi, India
+* Sheel Shah, Student - London, UK
+* Daniel Gonçalves, Student - Lisbon, Portugal
