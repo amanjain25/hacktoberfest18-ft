@@ -24,6 +24,7 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Rohit Swami, Student - Haryana, India
 * Max Grosshandler, Student - Chicago, Illinois, USA
 * Neha Gautam, Student - Rajasthan, India
+* Ben Mort, Student - Florida, USA
 * Aman Jain, Student - Himachal Pradesh, India
 * Georgi Bojinov, Student - Sofia, Bulgaria
 * Max Morales, Student - El Paso, Texas
