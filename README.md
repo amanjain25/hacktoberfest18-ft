@@ -58,3 +58,11 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Daniel Gonçalves, Student - Lisbon, Portugal
 * Muhammad Choirul Nurcholiq, Developer - Sidoarjo, Indonesia
 * Showndarya Madhavan, Student - Mumbai, India
+* Bhupesh Varshney, student - New Delhi, India
+* Divyansh, Student - India
+* Himanshu Aggarwal, Student - Delhi, India
+* Shivani Gupta,Student- Delhi,India
+* Praveen, Student - TN, India
+* Christian Mark Bituin, Student - Philippines
+* Robson Cruz, Student - Sao Paulo, Brazil
+* Thomas Lee, Test Engineer - Herzogenaurach, Germany
