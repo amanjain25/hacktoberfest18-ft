@@ -44,7 +44,7 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Vishal Anand, Student - Himachal Pradesh, India
 * Giovanni Nuño, Student - Guanajuato, Mexico
 * Shad Grimgravy, Developer - Michigan
-*  Grady Houston, Developer - Washington, D.C., USA
+* Grady Houston, Developer - Washington, D.C., USA
 * Tristan Caulfield, Team Lead - Memphis, Tennessee, USA
 * Anthony Young, Fullstack Javascript Developer - London, UK
 * Aditya Gaur, Student - Jalandhar, India
@@ -57,6 +57,7 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Sheel Shah, Student - London, UK
 * Daniel Gonçalves, Student - Lisbon, Portugal
 * Muhammad Choirul Nurcholiq, Developer - Sidoarjo, Indonesia
+* Showndarya Madhavan, Student - Mumbai, India
 * Bhupesh Varshney, student - New Delhi, India
 * Divyansh, Student - India
 * Himanshu Aggarwal, Student - Delhi, India
