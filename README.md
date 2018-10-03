@@ -27,6 +27,7 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Aman Jain, Student - Himachal Pradesh, India
 * Georgi Bojinov, Student - Sofia, Bulgaria
 * Max Morales, Student - El Paso, Texas
+* Yash Agrawal, Student - Himachal Pradesh, India
 * Nanichang Katzing, Student - Nigeria
 * Kyle Lim, Student - Maryland, USA
 * Holden Oullette, Digital Developer - Las Vegas, Nevada
