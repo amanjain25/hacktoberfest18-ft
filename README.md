@@ -69,4 +69,5 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Praveen, Student - TN, India
 * Christian Mark Bituin, Student - Philippines
 * Robson Cruz, Student - Sao Paulo, Brazil
+* Prajesh puri, student - Delhi, India
 * Thomas Lee, Test Engineer - Herzogenaurach, Germany
