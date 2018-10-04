@@ -70,3 +70,4 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Christian Mark Bituin, Student - Philippines
 * Robson Cruz, Student - Sao Paulo, Brazil
 * Thomas Lee, Test Engineer - Herzogenaurach, Germany
+* Christopher Nash, Software Engineer & Student - Salt Lake City, UT, United States
