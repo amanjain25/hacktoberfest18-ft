@@ -24,58 +24,59 @@ Example: <b>\* Rohit Swami, Student - Haryana, India </b>
 
 # Hall of Fame for Contributors :sunglasses:
 
-You can visit the [Hall if Fame](https://showndarya.github.io/hacktoberfest18-ft/) for the list of contributors with a minimum of one merged commit to this repository with their gravatar. If you want to know more about a contributor, click on their gravatar to go to their github profile. 
+You can visit the [Hall if Fame](https://showndarya.github.io/hacktoberfest18-ft/) for the list of contributors with a minimum of one merged commit to this repository with their gravatar. If you want to know more about a contributor, click on their gravatar to go to their github profile.
 
 # Amazing Contributors :heart:
 
-* Rohit Swami, Student - Haryana, India
-* Max Grosshandler, Student - Chicago, Illinois, USA
-* Neha Gautam, Student - Rajasthan, India
-* Ben Mort, Student - Florida, USA
-* Aman Jain, Student - Himachal Pradesh, India
-* Georgi Bojinov, Student - Sofia, Bulgaria
-* Max Morales, Student - El Paso, Texas
-* Yash Agrawal, Student - Himachal Pradesh, India
-* Nanichang Katzing, Student - Nigeria
-* Kyle Lim, Student - Maryland, USA
-* Holden Oullette, Digital Developer - Las Vegas, Nevada
-* Aditya choudhary, Student- Delhi, India
-* Tanya Vedi, Student - Delhi, India
-* Siddharth, Student - Delhi, India
-* Adrian teri, Student - Kenya, Nairobi
-* Dylan, Student - Toronto, Canada
-* Nelson Chinedu, Student - Nigeria
-* Aman Kumar Soni, Student - Jalandhar,India
-* Joseph, Student - India
-* Aman Kumar Soni, Student - Jalandhar,India
-* Ganesh Radhaji Sanap, Student - Maharashtra, India.
-* Rafal Kruk, Developer - Leeds, UK
-* Vishal Anand, Student - Himachal Pradesh, India
-* Giovanni Nuño, Student - Guanajuato, Mexico
-* Shad Grimgravy, Developer - Michigan
-* Grady Houston, Developer - Washington, D.C., USA
-* Tristan Caulfield, Team Lead - Memphis, Tennessee, USA
-* Anthony Young, Fullstack Javascript Developer - London, UK
-* Aditya Gaur, Student - Jalandhar, India
-* Vidushi Jain, Student - Noida, India
-* Ronika Das, Student - Delhi India
-* Gunjan Singh- Nagpur, India
-* Sidhya Tikku, Student - New Delhi, India
-* Swapnil Rustagi, Student - Himachal Pradesh, India
-* Priyal Sobti, Student - Delhi, India
-* Sheel Shah, Student - London, UK
-* Daniel Gonçalves, Student - Lisbon, Portugal
-* Muhammad Choirul Nurcholiq, Developer - Sidoarjo, Indonesia
-* Raine the Dragon, Learning to Code - London, UK
-* Niaw Junior - Bangkok, Thailand
-* Showndarya Madhavan, Student - Mumbai, India
-* Bhupesh Varshney, student - New Delhi, India
-* Divyansh, Student - India
-* Himanshu Aggarwal, Student - Delhi, India
-* Shivani Gupta,Student- Delhi,India
-* Praveen, Student - TN, India
-* Christian Mark Bituin, Student - Philippines
-* Robson Cruz, Student - Sao Paulo, Brazil
-* Thomas Lee, Test Engineer - Herzogenaurach, Germany
-* Michael Pimentel, Software Engineer - California, United States
-* Pratyush Kumar,Student- India
+- Rohit Swami, Student - Haryana, India
+- Max Grosshandler, Student - Chicago, Illinois, USA
+- Neha Gautam, Student - Rajasthan, India
+- Ben Mort, Student - Florida, USA
+- Aman Jain, Student - Himachal Pradesh, India
+- Georgi Bojinov, Student - Sofia, Bulgaria
+- Max Morales, Student - El Paso, Texas
+- Yash Agrawal, Student - Himachal Pradesh, India
+- Nanichang Katzing, Student - Nigeria
+- Kyle Lim, Student - Maryland, USA
+- Holden Oullette, Digital Developer - Las Vegas, Nevada
+- Aditya choudhary, Student- Delhi, India
+- Tanya Vedi, Student - Delhi, India
+- Siddharth, Student - Delhi, India
+- Adrian teri, Student - Kenya, Nairobi
+- Dylan, Student - Toronto, Canada
+- Nelson Chinedu, Student - Nigeria
+- Aman Kumar Soni, Student - Jalandhar,India
+- Joseph, Student - India
+- Aman Kumar Soni, Student - Jalandhar,India
+- Ganesh Radhaji Sanap, Student - Maharashtra, India.
+- Rafal Kruk, Developer - Leeds, UK
+- Vishal Anand, Student - Himachal Pradesh, India
+- Giovanni Nuño, Student - Guanajuato, Mexico
+- Shad Grimgravy, Developer - Michigan
+- Grady Houston, Developer - Washington, D.C., USA
+- Tristan Caulfield, Team Lead - Memphis, Tennessee, USA
+- Anthony Young, Fullstack Javascript Developer - London, UK
+- Aditya Gaur, Student - Jalandhar, India
+- Vidushi Jain, Student - Noida, India
+- Ronika Das, Student - Delhi India
+- Gunjan Singh- Nagpur, India
+- Sidhya Tikku, Student - New Delhi, India
+- Swapnil Rustagi, Student - Himachal Pradesh, India
+- Priyal Sobti, Student - Delhi, India
+- Sheel Shah, Student - London, UK
+- Daniel Gonçalves, Student - Lisbon, Portugal
+- Muhammad Choirul Nurcholiq, Developer - Sidoarjo, Indonesia
+- Raine the Dragon, Learning to Code - London, UK
+- Niaw Junior - Bangkok, Thailand
+- Showndarya Madhavan, Student - Mumbai, India
+- Bhupesh Varshney, student - New Delhi, India
+- Divyansh, Student - India
+- Himanshu Aggarwal, Student - Delhi, India
+- Shivani Gupta,Student- Delhi,India
+- Praveen, Student - TN, India
+- Christian Mark Bituin, Student - Philippines
+- Robson Cruz, Student - Sao Paulo, Brazil
+- Thomas Lee, Test Engineer - Herzogenaurach, Germany
+- Michael Pimentel, Software Engineer - California, United States
+- Pratyush Kumar,Student- India
+- Hélio Marcondes, Front-end Developer - Sao Paulo, Brazil
