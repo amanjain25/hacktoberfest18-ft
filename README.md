@@ -75,3 +75,4 @@ You can visit the [Hall if Fame](https://showndarya.github.io/hacktoberfest18-ft
 * Christian Mark Bituin, Student - Philippines
 * Robson Cruz, Student - Sao Paulo, Brazil
 * Thomas Lee, Test Engineer - Herzogenaurach, Germany
+* Mervyn Tan, Student - Singapore
