@@ -9,7 +9,8 @@ It's hard. It's always hard the first time you do something. Especially when you
 
 ## Create Your First Pull Request
 1. [Star and Fork this repository](https://help.github.com/articles/fork-a-repo/).
-3. Edit this README.md file & append your information at the bottom of this file as follows:
+
+2. Edit this README.md file & append your information at the bottom of this file as follows:
 
 * Name, Profession - Location
 
@@ -18,6 +19,10 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 3. Commit the change to your fork, using a clear and descriptive commit message.
 
 4. [Create a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+
+# Hall of Fame for Contributors :sunglasses:
+
+You can visit the [Hall if Fame](https://showndarya.github.io/hacktoberfest18-ft/) for the list of contributors with a minimum of one merged commit to this repository with their gravatar. If you want to know more about a contributor, click on their gravatar to go to their github profile. 
 
 # Amazing Contributors :heart:
 
