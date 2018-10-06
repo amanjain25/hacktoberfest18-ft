@@ -60,6 +60,7 @@ You can visit the [Hall if Fame](https://showndarya.github.io/hacktoberfest18-ft
 * Vidushi Jain, Student - Noida, India
 * Ronika Das, Student - Delhi India
 * Gunjan Singh- Nagpur, India
+* Saket Kumar Sankrit, Jalandhar, India
 * Sidhya Tikku, Student - New Delhi, India
 * Swapnil Rustagi, Student - Himachal Pradesh, India
 * Priyal Sobti, Student - Delhi, India
