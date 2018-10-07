@@ -60,6 +60,7 @@ You can visit the [Hall if Fame](https://showndarya.github.io/hacktoberfest18-ft
 * Vidushi Jain, Student - Noida, India
 * Ronika Das, Student - Delhi India
 * Gunjan Singh- Nagpur, India
+* Saket Kumar Sankrit, Jalandhar, India
 * Sidhya Tikku, Student - New Delhi, India
 * Swapnil Rustagi, Student - Himachal Pradesh, India
 * Priyal Sobti, Student - Delhi, India
@@ -76,7 +77,12 @@ You can visit the [Hall if Fame](https://showndarya.github.io/hacktoberfest18-ft
 * Praveen, Student - TN, India
 * Christian Mark Bituin, Student - Philippines
 * Robson Cruz, Student - Sao Paulo, Brazil
+* Divya Thakur, Developer - Rajasthan, India
+* Rafael de Souza Santos, Student - Bahia, Brazil
+* Christopher Nash, Software Engineer & Student - Salt Lake City, UT, United States
+* Prajesh puri, student - Delhi, India
 * Thomas Lee, Test Engineer - Herzogenaurach, Germany
 * Michael Pimentel, Software Engineer - California, United States
 * Pratyush Kumar,Student- India
 * Vidisha Sethi,Student- India
+
