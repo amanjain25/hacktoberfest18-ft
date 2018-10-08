@@ -86,6 +86,7 @@ You can visit the [Hall if Fame](https://showndarya.github.io/hacktoberfest18-ft
 * Thomas Lee, Test Engineer - Herzogenaurach, Germany
 * Michael Pimentel, Software Engineer - California, United States
 * Pratyush Kumar,Student- India
+* Jai katiyar,Student- Kanpur,India
 * Apurva Vishwakarma, Student - Lucknow, India
 * Lydia Vujadinovic,Aspiring Front End Developer
 * Hélio Marcondes, Front-end Developer - Sao Paulo, Brazil
