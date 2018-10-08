@@ -77,6 +77,8 @@ You can visit the [Hall if Fame](https://showndarya.github.io/hacktoberfest18-ft
 * Praveen, Student - TN, India
 * Christian Mark Bituin, Student - Philippines
 * Robson Cruz, Student - Sao Paulo, Brazil
+* Thomas Lee, Test Engineer - Herzogenaurach, Germany
+* Reuben Antz, Student - Jos, Nigeria
 * Divya Thakur, Developer - Rajasthan, India
 * Rafael de Souza Santos, Student - Bahia, Brazil
 * Christopher Nash, Software Engineer & Student - Salt Lake City, UT, United States
