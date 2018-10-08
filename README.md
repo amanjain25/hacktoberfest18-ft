@@ -89,6 +89,7 @@ You can visit the [Hall if Fame](https://showndarya.github.io/hacktoberfest18-ft
 * Michael Pimentel, Software Engineer - California, United States
 * Deddy, Student - Singapore
 * Pratyush Kumar,Student- India
+* Divay Garg, Student- Delhi, India
 * Vidisha Sethi,Student- India
 * Damodar Lohani, Developer- Nepal
 * Cade knight, Student, USA
