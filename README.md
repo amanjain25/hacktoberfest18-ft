@@ -78,7 +78,7 @@ You can visit the [Hall if Fame](https://showndarya.github.io/hacktoberfest18-ft
 * Christian Mark Bituin, Student - Philippines
 * Robson Cruz, Student - Sao Paulo, Brazil
 * Thomas Lee, Test Engineer - Herzogenaurach, Germany
-* Pooja Sharma,Student-Haryana,India
+* Pooja Sharma, Student  Haryana,India
 * Ahmet Burak Baraklı, Student - Ankara, Turkey
 * Reuben Antz, Student - Jos, Nigeria
 * Divya Thakur, Developer - Rajasthan, India
@@ -89,6 +89,7 @@ You can visit the [Hall if Fame](https://showndarya.github.io/hacktoberfest18-ft
 * Michael Pimentel, Software Engineer - California, United States
 * Deddy, Student - Singapore
 * Pratyush Kumar,Student- India
+* Dejan, Student - Bosnia and Herzegovina
 * Divay Garg, Student- Delhi, India
 * Vidisha Sethi,Student- India
 * Damodar Lohani, Developer- Nepal
