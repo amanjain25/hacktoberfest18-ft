@@ -85,6 +85,7 @@ You can visit the [Hall if Fame](https://showndarya.github.io/hacktoberfest18-ft
 * Prajesh puri, student - Delhi, India
 * Thomas Lee, Test Engineer - Herzogenaurach, Germany
 * Michael Pimentel, Software Engineer - California, United States
+* Deddy, Student - Singapore
 * Pratyush Kumar,Student- India
 * Jai katiyar,Student- Kanpur,India
 * Apurva Vishwakarma, Student - Lucknow, India
