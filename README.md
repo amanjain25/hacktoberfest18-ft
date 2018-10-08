@@ -99,4 +99,5 @@ You can visit the [Hall if Fame](https://showndarya.github.io/hacktoberfest18-ft
 * Jai katiyar,Student- Kanpur,India
 * Apurva Vishwakarma, Student - Lucknow, India
 * Lydia Vujadinovic,Aspiring Front End Developer
-* Hélio Marcondes, Front-end Developer - Sao Paulo, Brazil 
+* Hélio Marcondes, Front-end Developer - Sao Paulo, Brazil
+* Seb1080, Web Developer - Montréal, Canada 
