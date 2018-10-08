@@ -1,6 +1,7 @@
 ﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## What is Hacktoberfest'18?
+
 Hacktoberfest is a global event which motivates open source contributors to boost up their contribution. As well as it is a month-long celebration of open source software in partnership with GitHub. In addition to that by contributing to this challenge you can earn a limited edition T-Shirt.
 
 ## First Contributions
@@ -8,16 +9,22 @@ Hacktoberfest is a global event which motivates open source contributors to boos
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. I wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
 ## Create Your First Pull Request
+
 1. [Star and Fork this repository](https://help.github.com/articles/fork-a-repo/).
-3. Edit this README.md file & append your information at the bottom of this file as follows:
 
-* Name, Profession - Location
+2. Edit this README.md file & append your information at the bottom of this file as follows:
 
-Example: <b>* Rohit Swami, Student - Haryana, India </b>
+- Name, Profession - Location
+
+Example: <b>\* Rohit Swami, Student - Haryana, India </b>
 
 3. Commit the change to your fork, using a clear and descriptive commit message.
 
 4. [Create a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+
+# Hall of Fame for Contributors :sunglasses:
+
+You can visit the [Hall if Fame](https://showndarya.github.io/hacktoberfest18-ft/) for the list of contributors with a minimum of one merged commit to this repository with their gravatar. If you want to know more about a contributor, click on their gravatar to go to their github profile. 
 
 # Amazing Contributors :heart:
 
@@ -53,6 +60,7 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Vidushi Jain, Student - Noida, India
 * Ronika Das, Student - Delhi India
 * Gunjan Singh- Nagpur, India
+* Saket Kumar Sankrit, Jalandhar, India
 * Sidhya Tikku, Student - New Delhi, India
 * Swapnil Rustagi, Student - Himachal Pradesh, India
 * Priyal Sobti, Student - Delhi, India
@@ -71,3 +79,10 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Robson Cruz, Student - Sao Paulo, Brazil
 * Thomas Lee, Test Engineer - Herzogenaurach, Germany
 * Reuben Antz, Student - Jos, Nigeria
+* Divya Thakur, Developer - Rajasthan, India
+* Rafael de Souza Santos, Student - Bahia, Brazil
+* Christopher Nash, Software Engineer & Student - Salt Lake City, UT, United States
+* Prajesh puri, student - Delhi, India
+* Thomas Lee, Test Engineer - Herzogenaurach, Germany
+* Michael Pimentel, Software Engineer - California, United States
+* Pratyush Kumar,Student- India
