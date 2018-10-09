@@ -121,3 +121,4 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Can Yuva, Student - Ankara, Turkey
 * Indra Arianggi, Web Programmer - Depok, Indonesia
 * Andre Pratama, Software Developer - Medan, Indonesia
+* Maxim Syrgiy, Senior Software Engineer - Nizhniy Novgorod, Russia
