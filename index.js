@@ -3,49 +3,45 @@ var i = 0;
 
 var getData = (function($) {
   var URL =
-    "https://api.github.com/repos/rowhitswami/hacktoberfest18-ft/commits?per_page=100";
+    "https://api.github.com/repos/rowhitswami/hacktoberfest18-ft/contributors?per_page=1000";
 
   $.get(URL, function(data, status) {
-    console.log(data[0]);
-    data.forEach(function(d) {
-      if (d.author == null) {
-        return true;
-      }
+    if (data.length > 0) {
+      data.forEach(function(user) {
+        if (users.indexOf(user.login) == -1) {
+          var name = user.login || "";
 
-      if (users.indexOf(d.commit.author.email) == -1) {
-        var mes = d.commit.message;
-        var name = d.commit.author.name;
+          if (user.type !== "User") {
+            name = "Anonymous";
+          }
 
-        if (name == "") {
-          name = mes;
+          var template =
+            "<div class='col-md-3 col-xs-6 col-lg-3' id='author'><div class='container-fluid'>" +
+            "<a class='thumbnail' target='_blank' href='" +
+            user.html_url +
+            "'>" +
+            "<img src='" +
+            user.avatar_url +
+            "' alt='' class='img-responsive'>" +
+            "</a>" +
+            "<div class='caption'>" +
+            "<a target='_blank' href='" +
+            user.html_url +
+            "'>" +
+            "<strong>" +
+            user.login +
+            "</strong>" +
+            "</a>" +
+            "<p>" +
+            name +
+            "</p>" +
+            "</div></div></div>";
+
+          $("#contributors").append(template);
+          users[i] = user.login;
+          i = i + 1;
         }
-
-        var template =
-          "<div class='col-md-3 col-xs-6 col-lg-3' id='author'><div class='container-fluid'>" +
-          "<a class='thumbnail' target='_blank' href='" +
-          d.author.html_url +
-          "'>" +
-          "<img src='" +
-          d.author.avatar_url +
-          "' alt='' class='img-responsive'>" +
-          "</a>" +
-          "<div class='caption'>" +
-          "<a target='_blank' href='" +
-          d.author.html_url +
-          "'>" +
-          "<strong>" +
-          d.author.login +
-          "</strong>" +
-          "</a>" +
-          "<p>" +
-          name +
-          "</p>" +
-          "</div></div></div>";
-
-        $("#contributors").append(template);
-        users[i] = d.commit.author.email;
-        i = i + 1;
-      }
-    });
+      });
+    }
   });
 })($);

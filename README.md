@@ -24,7 +24,7 @@ Example: <b>\* Rohit Swami, Student - Haryana, India </b>
 
 # Hall of Fame for Contributors :sunglasses:
 
-You can visit the [Hall if Fame](https://showndarya.github.io/hacktoberfest18-ft/) for the list of contributors with a minimum of one merged commit to this repository with their gravatar. If you want to know more about a contributor, click on their gravatar to go to their github profile.
+You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-ft/) for the list of contributors with a minimum of one merged commit to this repository with their gravatar. If you want to know more about a contributor, click on their gravatar to go to their github profile.
 
 # Amazing Contributors :heart:
 
@@ -99,5 +99,6 @@ You can visit the [Hall if Fame](https://showndarya.github.io/hacktoberfest18-ft
 * Jai katiyar,Student- Kanpur,India
 * Apurva Vishwakarma, Student - Lucknow, India
 * Lydia Vujadinovic,Aspiring Front End Developer
-* Hélio Marcondes, Front-end Developer - Sao Paulo, Brazil 
+* Hélio Marcondes, Front-end Developer - Sao Paulo, Brazil
 * Paul Richter, Student - Freiburg im Breisgau, Germany 
+* Can Yuva, Student - Ankara, Turkey
