@@ -3,7 +3,7 @@ var i = 0;
 
 var getData = (function($) {
   var URL =
-    "https://api.github.com/repos/rowhitswami/hacktoberfest18-ft/contributors";
+    "https://api.github.com/repos/rowhitswami/hacktoberfest18-ft/contributors?per_page=1000";
 
   $.get(URL, function(data, status) {
     if (data.length > 0) {
