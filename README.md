@@ -103,3 +103,4 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Hélio Marcondes, Front-end Developer - Sao Paulo, Brazil
 * Paul Richter, Student - Freiburg im Breisgau, Germany 
 * Can Yuva, Student - Ankara, Turkey
+* Indra Arianggi, Web Programmer - Depok, Indonesia
