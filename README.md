@@ -104,6 +104,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Caio Lima, Back-end Developer - Sao Paulo, Brazil
 * Kamry Bowman, Front-End Developer, Denver, CO
 * Hélio Marcondes, Front-end Developer - Sao Paulo, Brazil 
+* Adam Fadhil, Developer - Jakarta, Indonesia
 * Manish Kumar , Student (BIT M ) - Ranchi , India
 * Alessandro Digilio, Student - Pistoia,Italy
 * Nick Wu, Student - Vancouver, Canada
