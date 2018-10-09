@@ -100,3 +100,4 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Apurva Vishwakarma, Student - Lucknow, India
 * Lydia Vujadinovic,Aspiring Front End Developer
 * Hélio Marcondes, Front-end Developer - Sao Paulo, Brazil 
+* Can Yuva, Student - Ankara, Turkey
