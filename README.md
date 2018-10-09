@@ -99,6 +99,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Jai katiyar,Student- Kanpur,India
 * Apurva Vishwakarma, Student - Lucknow, India
 * Lydia Vujadinovic,Aspiring Front End Developer
+* Norbert Barto, Cloud Developer - Košice, Slovakia
 * Caio Lima, Back-end Developer - Sao Paulo, Brazil
 * Kamry Bowman, Front-End Developer, Denver, CO
 * Hélio Marcondes, Front-end Developer - Sao Paulo, Brazil 
