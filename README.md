@@ -102,6 +102,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Caio Lima, Back-end Developer - Sao Paulo, Brazil
 * Kamry Bowman, Front-End Developer, Denver, CO
 * Hélio Marcondes, Front-end Developer - Sao Paulo, Brazil 
+* Marlon Decosta, Student - New Jersey, USA 
 * PJ Frias, Developer - Maryland, USA
 * Aris Kurniawan, Student - Kepulauan Riau, Indonesia
 * Anmol Gulati, Student - New Delhi, India
