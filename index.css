@@ -7,6 +7,8 @@ body {
 h1,h3 {
 	text-align: center;
 	margin-top: 0px;
+	font-family: "Courier New", Courier, monospace;
+	font-weight:bold;
 }
 
 h1 {
