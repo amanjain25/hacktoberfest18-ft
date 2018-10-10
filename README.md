@@ -122,4 +122,9 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Indra Arianggi, Web Programmer - Depok, Indonesia
 * Andre Pratama, Software Developer - Medan, Indonesia
 * Yordan Zhelev, Front-End Dev - Bulgaria
-* Ozan Akın, Student - Ankara, Turkey
+* Yuri Soffner, SysAdmin - Sao Paulo, Brazil
+* Ozan Eğitmen, Student - Ankara, Turkey
+* Morteza Hosseini, Developer - Tehran, Iran
+* Agoi Abel Adeyemi, ReactJs Developer - Lagos, Nigeria
+* Maxim Syrgiy, Senior Software Engineer - Nizhniy Novgorod, Russia
+* Yordan Zhelev, Front-End Dev - Bulgaria 
