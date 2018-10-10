@@ -99,11 +99,11 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Jai katiyar,Student- Kanpur,India
 * Apurva Vishwakarma, Student - Lucknow, India
 * Lydia Vujadinovic,Aspiring Front End Developer
-* Seb1080, Web Developer - Montréal, Canada 
+* Seb1080, Web Developer - Montréal, Canada
 * Norbert Barto, Cloud Developer - Košice, Slovakia
 * Caio Lima, Back-end Developer - Sao Paulo, Brazil
 * Kamry Bowman, Front-End Developer, Denver, CO
-* Hélio Marcondes, Front-end Developer - Sao Paulo, Brazil 
+* Hélio Marcondes, Front-end Developer - Sao Paulo, Brazil
 * Sukma Ragil, Quality Assurance - Jakarta, Indonesia
 * Adam Fadhil, Developer - Jakarta, Indonesia
 * Manish Kumar , Student (BIT M ) - Ranchi , India
@@ -111,13 +111,13 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Nick Wu, Student - Vancouver, Canada
 * Flaviano Gonçalves de Brito, Front-end Developer - Juazeiro do Norte-CE, Brazil
 * Sanjeev Sharma, Student - Haryana, India
-* Marlon Decosta, Student - New Jersey, USA 
+* Marlon Decosta, Student - New Jersey, USA
 * PJ Frias, Developer - Maryland, USA
 * Aris Kurniawan, Student - Kepulauan Riau, Indonesia
 * Anmol Gulati, Student - New Delhi, India
 * Tan Yong He, Student - Singapore
 * Aarush Juneja, Web-developer and Sport Programmer - Dhanbad, India
-* Paul Richter, Student - Freiburg im Breisgau, Germany 
+* Paul Richter, Student - Freiburg im Breisgau, Germany
 * Can Yuva, Student - Ankara, Turkey
 * Indra Arianggi, Web Programmer - Depok, Indonesia
 * Andre Pratama, Software Developer - Medan, Indonesia
@@ -127,5 +127,6 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Morteza Hosseini, Developer - Tehran, Iran
 * Agoi Abel Adeyemi, ReactJs Developer - Lagos, Nigeria
 * Maxim Syrgiy, Senior Software Engineer - Nizhniy Novgorod, Russia
-* Yordan Zhelev, Front-End Dev - Bulgaria 
-* John Oneil, Front-End Dev - Baltimore, USA 
+* Yordan Zhelev, Front-End Dev - Bulgaria
+* John Oneil, Front-End Dev - Baltimore, USA
+* David, Back-End Dev - Granada, Spain  
