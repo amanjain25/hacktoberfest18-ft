@@ -121,6 +121,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Can Yuva, Student - Ankara, Turkey
 * Indra Arianggi, Web Programmer - Depok, Indonesia
 * Andre Pratama, Software Developer - Medan, Indonesia
+* Yordan Zhelev, Front-End Dev - Bulgaria
 * Yuri Soffner, SysAdmin - Sao Paulo, Brazil
 * Ozan Eğitmen, Student - Ankara, Turkey
 * Morteza Hosseini, Developer - Tehran, Iran
