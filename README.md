@@ -1,4 +1,4 @@
-﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## What is Hacktoberfest'18?
 
@@ -129,3 +129,4 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Maxim Syrgiy, Senior Software Engineer - Nizhniy Novgorod, Russia
 * Yordan Zhelev, Front-End Dev - Bulgaria 
 * John Oneil, Front-End Dev - Baltimore, USA 
+* Stephanie Patterson, SQL Developer - USA
