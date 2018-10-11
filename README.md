@@ -22,7 +22,7 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 # Amazing Contributors :heart:
 
 * Rohit Swami, Student - Haryana, India
-* Aditi Pandey, Student - UP, India :female-student:
+* Aditi Pandey, Student - UP, India :fire:
 * Max Grosshandler, Student - Chicago, Illinois, USA
 * Georgi Bojinov, Student - Sofia, Bulgaria
 * Max Morales, Student - El Paso, Texas
