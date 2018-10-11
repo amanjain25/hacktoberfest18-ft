@@ -132,3 +132,6 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Jason Leonhard, Full Stack - Portland, USA
 
 [comment]: <> (Add your name, profession and location right above this markdown comment)
+
+## What should I do next for Hacktoberfest'18?
+  1. If you wanted to offer more code changes to this repo you could edit/add any files/code and then follow a similar workflow.
