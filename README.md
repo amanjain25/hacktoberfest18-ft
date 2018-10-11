@@ -138,4 +138,10 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 
   2. You could alternatively look at any github's "Issues" tab. That is where people make requests to the public for your contributions aka "pull requests"
 
-### Or you could check out this list:
+### Or you could check out one of these lists:
+
+  [main sites suggestions](https://hacktoberfest.digitalocean.com/#projects)
+
+  [all github issues labeled hacktoberfest](https://github.com/search?q=label:hacktoberfest+state:open+type:issue)
+
+  [all github issues labeled hacktoberfest and a language like javascript](https://github.com/search?l=JavaScript&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue&type=Issues)
