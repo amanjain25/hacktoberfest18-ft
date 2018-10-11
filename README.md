@@ -1,4 +1,4 @@
-﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## What is Hacktoberfest'18?
 
@@ -135,3 +135,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 
 ## What should I do next for Hacktoberfest'18?
   1. If you wanted to offer more code changes to this repo you could edit/add any files/code and then follow a similar workflow.
+
+  2. You could alternatively look at any github's "Issues" tab. That is where people make requests to the public for your contributions aka "pull requests"
+
+### Or you could check out this list:
