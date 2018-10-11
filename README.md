@@ -129,4 +129,6 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Maxim Syrgiy, Senior Software Engineer - Nizhniy Novgorod, Russia
 * Yordan Zhelev, Front-End Dev - Bulgaria
 * John Oneil, Front-End Dev - Baltimore, USA
-* Jason Leonhard, Full Stack - Portland, USA 
+* Jason Leonhard, Full Stack - Portland, USA
+
+[comment]: <> (Add your name, profession and location right above this markdown comment)
