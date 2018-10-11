@@ -138,6 +138,8 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 
   2. You could alternatively look at any github's "Issues" tab. That is where people make requests to the public for your contributions aka "pull requests"
 
+  3. You can contribute anywhere. Sometimes repo maintainers are more receptive to pull requests than others. It often is recommended to make smaller changes and see how the maintainers respond to your requests. Ideally they merge in your changes, that is the point of a pull request, you are attempting to contribute to a larger project that you do not own.
+
 ## Or you could check out one of these lists:
 
   [main sites suggestions](https://hacktoberfest.digitalocean.com/#projects)
@@ -148,3 +150,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 
 ## A word of caution
   When working with git with a world wide team you may be making changes at the same time someone else is, if you both change the same file there could be "merge conflicts". Rememeber to "git pull" or "git fetch" and resolve merge conflicts locally before attempting to create a "pull request".
+
+## There are many ways to create a pull request
+  1. You can fork a project and compare across forks. Choose this option if you plan to contribute more than once.
+  2. Or you can edit the original github repo's code directly. Choose this option if you have a quick contribution.
