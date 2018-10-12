@@ -1,4 +1,4 @@
-﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## What is Hacktoberfest'18?
 
@@ -129,8 +129,33 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Morteza Hosseini, Developer - Tehran, Iran
 * Agoi Abel Adeyemi, ReactJs Developer - Lagos, Nigeria
 * Maxim Syrgiy, Senior Software Engineer - Nizhniy Novgorod, Russia
-* Yordan Zhelev, Front-End Dev - Bulgaria 
-* John Oneil, Front-End Dev - Baltimore, USA 
+* Yordan Zhelev, Front-End Dev - Bulgaria
+* John Oneil, Front-End Dev - Baltimore, USA
+* Jason Leonhard, Full Stack - Portland, USA
 * Daniel Tapp, IT Support Specialist - Greenville, SC
 * David, Back-End Dev - Granada, Spain
 * Hove Gotthard, Student - Kiel, Germany
+
+[comment]: <> (Add your name, profession and location right above this markdown comment)
+
+## What should I do next for Hacktoberfest'18?
+  1. If you wanted to offer more code changes to this repo you could edit/add any files/code and then follow a similar workflow.
+
+  2. You could alternatively look at any github's "Issues" tab. That is where people make requests to the public for your contributions aka "pull requests"
+
+  3. You can contribute anywhere. Sometimes repo maintainers are more receptive to pull requests than others. It often is recommended to make smaller changes and see how the maintainers respond to your requests. Ideally they merge in your changes, that is the point of a pull request, you are attempting to contribute to a larger project that you do not own.
+
+## Or you could check out one of these lists:
+
+  [main sites suggestions](https://hacktoberfest.digitalocean.com/#projects)
+
+  [all github issues labeled hacktoberfest](https://github.com/search?q=label:hacktoberfest+state:open+type:issue)
+
+  [all github issues labeled hacktoberfest and a language like javascript](https://github.com/search?l=JavaScript&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue&type=Issues)
+
+## A word of caution
+  When working with git with a world wide team you may be making changes at the same time someone else is, if you both change the same file there could be "merge conflicts". Rememeber to "git pull" or "git fetch" and resolve merge conflicts locally before attempting to create a "pull request".
+
+## There are many ways to create a pull request
+  1. You can fork a project and compare across forks. Choose this option if you plan to contribute more than once.
+  2. Or you can edit the original github repo's code directly. Choose this option if you have a quick contribution.
