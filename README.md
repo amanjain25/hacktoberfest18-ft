@@ -129,6 +129,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Morteza Hosseini, Developer - Tehran, Iran
 * Agoi Abel Adeyemi, ReactJs Developer - Lagos, Nigeria
 * Maxim Syrgiy, Senior Software Engineer - Nizhniy Novgorod, Russia
+* Shaily, Student - Delhi, India
 * Veena Rawat, Student - Delhi, India
 * Kawaldeep Kaur, Student, India
 * Anjali Singh , Student , Delhi,India
