@@ -129,6 +129,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Morteza Hosseini, Developer - Tehran, Iran
 * Agoi Abel Adeyemi, ReactJs Developer - Lagos, Nigeria
 * Maxim Syrgiy, Senior Software Engineer - Nizhniy Novgorod, Russia
+* Stephanie Patterson, SQL Developer - USA
 * Yordan Zhelev, Front-End Dev - Bulgaria
 * John Oneil, Front-End Dev - Baltimore, USA
 * Jason Leonhard, Full Stack - Portland, USA
