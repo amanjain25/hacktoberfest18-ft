@@ -29,6 +29,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 # Amazing Contributors :heart:
 
 * Rohit Swami, Student - Haryana, India
+* Aditi Pandey, Student - UP, India :fire:
 * Max Grosshandler, Student - Chicago, Illinois, USA
 * Neha Gautam, Student - Rajasthan, India
 * Ben Mort, Student - Florida, USA
@@ -42,6 +43,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Aditya choudhary, Student- Delhi, India
 * Tanya Vedi, Student - Delhi, India
 * Siddharth, Student - Delhi, India
+* Saakshi, Student- Delhi, India
 * Adrian teri, Student - Kenya, Nairobi
 * Dylan, Student - Toronto, Canada
 * Nelson Chinedu, Student - Nigeria
@@ -129,4 +131,5 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Maxim Syrgiy, Senior Software Engineer - Nizhniy Novgorod, Russia
 * Yordan Zhelev, Front-End Dev - Bulgaria
 * John Oneil, Front-End Dev - Baltimore, USA
-* David, Back-End Dev - Granada, Spain  
+* David, Back-End Dev - Granada, Spain
+* Hove Gotthard, Student - Kiel, Germany
