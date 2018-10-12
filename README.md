@@ -29,6 +29,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 # Amazing Contributors :heart:
 
 * Rohit Swami, Student - Haryana, India
+* Aditi Pandey, Student - UP, India :fire:
 * Max Grosshandler, Student - Chicago, Illinois, USA
 * Neha Gautam, Student - Rajasthan, India
 * Ben Mort, Student - Florida, USA
