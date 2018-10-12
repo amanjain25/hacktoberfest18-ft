@@ -1,4 +1,4 @@
-﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## What is Hacktoberfest'18?
 
@@ -29,6 +29,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 # Amazing Contributors :heart:
 
 * Rohit Swami, Student - Haryana, India
+* Aditi Pandey, Student - UP, India :fire:
 * Max Grosshandler, Student - Chicago, Illinois, USA
 * Neha Gautam, Student - Rajasthan, India
 * Ben Mort, Student - Florida, USA
@@ -42,6 +43,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Aditya choudhary, Student- Delhi, India
 * Tanya Vedi, Student - Delhi, India
 * Siddharth, Student - Delhi, India
+* Saakshi, Student- Delhi, India
 * Adrian teri, Student - Kenya, Nairobi
 * Dylan, Student - Toronto, Canada
 * Nelson Chinedu, Student - Nigeria
@@ -99,11 +101,11 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Jai katiyar,Student- Kanpur,India
 * Apurva Vishwakarma, Student - Lucknow, India
 * Lydia Vujadinovic,Aspiring Front End Developer
-* Seb1080, Web Developer - Montréal, Canada 
+* Seb1080, Web Developer - Montréal, Canada
 * Norbert Barto, Cloud Developer - Košice, Slovakia
 * Caio Lima, Back-end Developer - Sao Paulo, Brazil
 * Kamry Bowman, Front-End Developer, Denver, CO
-* Hélio Marcondes, Front-end Developer - Sao Paulo, Brazil 
+* Hélio Marcondes, Front-end Developer - Sao Paulo, Brazil
 * Sukma Ragil, Quality Assurance - Jakarta, Indonesia
 * Adam Fadhil, Developer - Jakarta, Indonesia
 * Manish Kumar , Student (BIT M ) - Ranchi , India
@@ -111,13 +113,13 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Nick Wu, Student - Vancouver, Canada
 * Flaviano Gonçalves de Brito, Front-end Developer - Juazeiro do Norte-CE, Brazil
 * Sanjeev Sharma, Student - Haryana, India
-* Marlon Decosta, Student - New Jersey, USA 
+* Marlon Decosta, Student - New Jersey, USA
 * PJ Frias, Developer - Maryland, USA
 * Aris Kurniawan, Student - Kepulauan Riau, Indonesia
 * Anmol Gulati, Student - New Delhi, India
 * Tan Yong He, Student - Singapore
 * Aarush Juneja, Web-developer and Sport Programmer - Dhanbad, India
-* Paul Richter, Student - Freiburg im Breisgau, Germany 
+* Paul Richter, Student - Freiburg im Breisgau, Germany
 * Can Yuva, Student - Ankara, Turkey
 * Indra Arianggi, Web Programmer - Depok, Indonesia
 * Andre Pratama, Software Developer - Medan, Indonesia
@@ -127,6 +129,38 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Morteza Hosseini, Developer - Tehran, Iran
 * Agoi Abel Adeyemi, ReactJs Developer - Lagos, Nigeria
 * Maxim Syrgiy, Senior Software Engineer - Nizhniy Novgorod, Russia
-* Yordan Zhelev, Front-End Dev - Bulgaria 
-* John Oneil, Front-End Dev - Baltimore, USA 
 * Shaily, Student - Delhi, India
+* Veena Rawat, Student - Delhi, India
+* Kawaldeep Kaur, Student, India
+* Anjali Singh , Student , Delhi,India
+* Stephanie Patterson, SQL Developer - USA
+* Yordan Zhelev, Front-End Dev - Bulgaria
+* John Oneil, Front-End Dev - Baltimore, USA
+* Jason Leonhard, Full Stack - Portland, USA
+* Daniel Tapp, IT Support Specialist - Greenville, SC
+* David, Back-End Dev - Granada, Spain
+* Hove Gotthard, Student - Kiel, Germany
+
+> (Add your name, profession and location right above this markdown comment)
+
+## What should I do next for Hacktoberfest'18?
+  1. If you wanted to offer more code changes to this repo you could edit/add any files/code and then follow a similar workflow.
+
+  2. You could alternatively look at any github's "Issues" tab. That is where people make requests to the public for your contributions aka "pull requests"
+
+  3. You can contribute anywhere. Sometimes repo maintainers are more receptive to pull requests than others. It often is recommended to make smaller changes and see how the maintainers respond to your requests. Ideally they merge in your changes, that is the point of a pull request, you are attempting to contribute to a larger project that you do not own.
+
+## Or you could check out one of these lists:
+
+- [Main site suggestions](https://hacktoberfest.digitalocean.com/#projects)
+
+- [All GitHub issues labeled Hacktoberfest](https://github.com/search?q=label:hacktoberfest+state:open+type:issue)
+
+- [All GitHub issues labeled Hacktoberfest and a language like JavaScript](https://github.com/search?l=JavaScript&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue&type=Issues)
+
+## A word of caution
+  When working with git with a world wide team you may be making changes at the same time someone else is, if you both change the same file there could be "merge conflicts". Rememeber to "git pull" or "git fetch" and resolve merge conflicts locally before attempting to create a "pull request".
+
+## There are many ways to create a pull request
+  1. You can fork a project and compare across forks. Choose this option if you plan to contribute more than once.
+  2. Or you can edit the original github repo's code directly. Choose this option if you have a quick contribution.
