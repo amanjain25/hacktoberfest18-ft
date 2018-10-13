@@ -141,6 +141,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Daniel Tapp, IT Support Specialist - Greenville, SC
 * David, Back-End Dev - Granada, Spain
 * Hove Gotthard, Student - Kiel, Germany
+* Shubhangi Gupta, Student - Lucknow, India
 * Meng Chen Chi, Student - Tainan, Taiwan
 * Vasantha Kumar, Web Developer - Chennai, India
 * Ankush Mehta, Student - Aurangabad, India
