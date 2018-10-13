@@ -149,6 +149,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Vasantha Kumar, Web Developer - Chennai, India
 * Ankush Mehta, Student - Aurangabad, India
 * Draylar, Student - MN, United States
+* Aviral Chauhan, Student - Patiala,India
 
 > (Add your name, profession and location right above this markdown comment)
 
