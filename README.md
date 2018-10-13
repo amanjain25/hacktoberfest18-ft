@@ -142,6 +142,10 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * David, Back-End Dev - Granada, Spain
 * Hove Gotthard, Student - Kiel, Germany
 * Shubhangi Gupta, Student - Lucknow, India
+* Meng Chen Chi, Student - Tainan, Taiwan
+* Vasantha Kumar, Web Developer - Chennai, India
+* Ankush Mehta, Student - Aurangabad, India
+* Draylar, Student - MN, United States
 
 > (Add your name, profession and location right above this markdown comment)
 
