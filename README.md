@@ -141,6 +141,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Daniel Tapp, IT Support Specialist - Greenville, SC
 * David, Back-End Dev - Granada, Spain
 * Hove Gotthard, Student - Kiel, Germany
+* Aishwarya Dhiman, Student - Jalandhar
 
 > (Add your name, profession and location right above this markdown comment)
 
