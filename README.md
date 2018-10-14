@@ -150,6 +150,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Ankush Mehta, Student - Aurangabad, India
 * Draylar, Student - MN, United States
 * Aviral Chauhan, Student - Patiala,India
+* Ashmeet Kaur , Student - New Delhi, India
 * Juan Ignacio Noli Villar, Student - Buenos Aires, Argentina
 
 > (Add your name, profession and location right above this markdown comment)
