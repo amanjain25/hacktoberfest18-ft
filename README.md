@@ -28,6 +28,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 
 # Amazing Contributors :heart:
 
+*Prakash Ujjwal,student - New Delhi, India
 * Rohit Swami, Student - Haryana, India
 * Aditi Pandey, Student - UP, India :fire:
 * Max Grosshandler, Student - Chicago, Illinois, USA
