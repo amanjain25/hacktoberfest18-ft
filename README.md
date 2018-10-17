@@ -153,6 +153,8 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Ashmeet Kaur , Student - New Delhi, India
 * Juan Ignacio Noli Villar, Student - Buenos Aires, Argentina
 * Tom Anderson, Student - Melbourne, Australia
+* Dhruval Shah, Student - Chochila Ghata,  India
+* Leo Yeung, Full Stack - London, UK
 
 > (Add your name, profession and location right above this markdown comment)
 
