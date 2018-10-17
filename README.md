@@ -166,6 +166,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Dhruval Shah, Student - Chochila Ghata,  India
 * Leo Yeung, Full Stack - London, UK
 * Prakash Ujjwal,student - New Delhi, India
+* Harsh Gupta , Student - Guwahati, India
 
 > (Add your name, profession and location right above this markdown comment)
 
