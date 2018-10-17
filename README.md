@@ -28,7 +28,6 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 
 # Amazing Contributors :heart:
 
-*Prakash Ujjwal,student - New Delhi, India
 * Rohit Swami, Student - Haryana, India
 * Aditi Pandey, Student - UP, India :fire:
 * Max Grosshandler, Student - Chicago, Illinois, USA
@@ -155,6 +154,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Aviral Chauhan, Student - Patiala,India
 * Ashmeet Kaur , Student - New Delhi, India
 * Juan Ignacio Noli Villar, Student - Buenos Aires, Argentina
+* Niral Pokal, Software Developer - California, USA
 * Christian Martínez, Computer Engineer - Barcelona, Spain
 * Ankita Kumari , Student - Jharkhand, India
 * William Bohlen, Student - Cleveland, USA
@@ -162,6 +162,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Tom Anderson, Student - Melbourne, Australia
 * Dhruval Shah, Student - Chochila Ghata,  India
 * Leo Yeung, Full Stack - London, UK
+* Prakash Ujjwal,student - New Delhi, India
 
 > (Add your name, profession and location right above this markdown comment)
 
