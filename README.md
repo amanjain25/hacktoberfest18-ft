@@ -154,6 +154,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Aviral Chauhan, Student - Patiala,India
 * Ashmeet Kaur , Student - New Delhi, India
 * Juan Ignacio Noli Villar, Student - Buenos Aires, Argentina
+* Ankita Kumari , Student - Jharkhand, India
 * William Bohlen, Student - Cleveland, USA
 * Andika Nugraha, Fullstack Developer - Jakarta, Indonesia
 * Tom Anderson, Student - Melbourne, Australia
