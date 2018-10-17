@@ -88,6 +88,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Christopher Nash, Software Engineer & Student - Salt Lake City, UT, United States
 * Prajesh puri, student - Delhi, India
 * Thomas Lee, Test Engineer - Herzogenaurach, Germany
+* Roberto Kedmenec, JS Developer, Cakovec, Croatia
 * Michael Pimentel, Software Engineer - California, United States
 * Deddy, Student - Singapore
 * Pratyush Kumar,Student- India
@@ -146,6 +147,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Aishwarya Dhiman, Student - Jalandhar
 * Shubhangi Gupta, Student - Lucknow, India
 * Meng Chen Chi, Student - Tainan, Taiwan
+* Reesea, Student - Tokyo, Japan
 * Vasantha Kumar, Web Developer - Chennai, India
 * Ankush Mehta, Student - Aurangabad, India
 * Draylar, Student - MN, United States
@@ -153,6 +155,10 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Ashmeet Kaur , Student - New Delhi, India
 * Juan Ignacio Noli Villar, Student - Buenos Aires, Argentina
 * William Bohlen, Student - Cleveland, USA
+* Andika Nugraha, Fullstack Developer - Jakarta, Indonesia
+* Tom Anderson, Student - Melbourne, Australia
+* Dhruval Shah, Student - Chochila Ghata,  India
+* Leo Yeung, Full Stack - London, UK
 
 > (Add your name, profession and location right above this markdown comment)
 
