@@ -88,6 +88,10 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Christopher Nash, Software Engineer & Student - Salt Lake City, UT, United States
 * Prajesh puri, student - Delhi, India
 * Thomas Lee, Test Engineer - Herzogenaurach, Germany
+
+Croatia
+* Roberto Kedmenec, JS Developer, Cakovec
+Croatia
 * Michael Pimentel, Software Engineer - California, United States
 * Deddy, Student - Singapore
 * Pratyush Kumar,Student- India
