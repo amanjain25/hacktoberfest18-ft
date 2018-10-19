@@ -38,3 +38,4 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Aman Kumar Soni, Student - Jalandhar,India
 * Ganesh Radhaji Sanap, Student - Maharashtra, India.
 * Rafal Kruk, Developer - Leeds, UK
+* Nicolás Walter, Developer - Buenos Aires, Argentina
