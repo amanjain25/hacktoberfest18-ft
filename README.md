@@ -168,6 +168,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Prakash Ujjwal,student - New Delhi, India
 * Harsh Gupta , Student - Guwahati, India
 * n0z, Student - Spain
+* Denis Skiba, front-end developer - Russia
 
 > (Add your name, profession and location right above this markdown comment)
 
