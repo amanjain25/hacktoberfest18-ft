@@ -156,7 +156,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Juan Ignacio Noli Villar, Student - Buenos Aires, Argentina
 * Raghuvar, Student - india
 * Sushmita Sah, Student,India
-* Bradley Van Dyne, Billing specialist (call center) - Washington, USA 
+* Bradley Van Dyne, Billing specialist (call center) - Washington, USA
 * Niral Pokal, Software Developer - California, USA
 * Christian Martínez, Computer Engineer - Barcelona, Spain
 * Ankita Kumari , Student - Jharkhand, India
@@ -167,6 +167,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Leo Yeung, Full Stack - London, UK
 * Prakash Ujjwal,student - New Delhi, India
 * Harsh Gupta , Student - Guwahati, India
+* Feysal Ikbal, Developer - Finland
 
 > (Add your name, profession and location right above this markdown comment)
 
