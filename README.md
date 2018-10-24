@@ -154,6 +154,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Aviral Chauhan, Student - Patiala,India
 * Ashmeet Kaur , Student - New Delhi, India
 * Juan Ignacio Noli Villar, Student - Buenos Aires, Argentina
+* Martina Safaric, Frontend developer - Cakovec, Croatia 
 * Raghuvar, Student - india
 * Sushmita Sah, Student,India
 * Bradley Van Dyne, Billing specialist (call center) - Washington, USA 
