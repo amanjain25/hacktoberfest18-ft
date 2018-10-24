@@ -3,7 +3,7 @@ var i = 0;
 
 var getData = (function($) {
   var URL =
-    "https://api.github.com/repos/rowhitswami/hacktoberfest18-ft/contributors?per_page=300";
+    "https://api.github.com/repos/rowhitswami/hacktoberfest18-ft/contributors?per_page=500";
 
   $.get(URL, function(data, status) {
     if (data.length > 0) {
@@ -16,26 +16,22 @@ var getData = (function($) {
           }
 
           var template =
-            "<div class='col-md-3 col-xs-6 col-lg-3' id='author'><div class='container-fluid'>" +
-            "<a class='thumbnail' target='_blank' href='" +
-            user.html_url +
-            "'>" +
-            "<img src='" +
-            user.avatar_url +
-            "' alt='' class='img-responsive'>" +
-            "</a>" +
-            "<div class='caption'>" +
-            "<a target='_blank' href='" +
-            user.html_url +
-            "'>" +
-            "<strong>" +
-            user.login +
-            "</strong>" +
-            "</a>" +
-            "<p>" +
-            name +
-            "</p>" +
-            "</div></div></div>";
+            "<div class='contributors-cell mdl-cell mdl-card'>" +
+              "<div class='contributors-card__media mdl-card__media'" +
+                "style='background: url(" +
+                  user.avatar_url +
+                ") center / cover;'>" +
+              "</div>" +
+              "<div class='mdl-card__supporting-text'>" +
+                user.login +
+              "</div>" +
+              "<div class='mdl-card__actions mdl-card--border'>" +
+                "<a class='mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect'" +
+                  "target='_blank' href='" +
+                    user.html_url +
+                "'>See</a>" +
+              "</div>" +
+            "</div>";
 
           $("#contributors").append(template);
           users[i] = user.login;
