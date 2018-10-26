@@ -32,7 +32,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Aditi Pandey, Student - UP, India :fire:
 * Max Grosshandler, Student - Chicago, Illinois, USA
 * Neha Gautam, Student - Rajasthan, India
-*Vignesh, Student - Trichy,India
+* Vignesh, Student - Trichy,India
 * Ben Mort, Student - Florida, USA
 * Aman Jain, Student - Himachal Pradesh, India
 * Georgi Bojinov, Student - Sofia, Bulgaria
@@ -197,6 +197,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Adrián Peña, Student - Granada, Spain
 * Vishal Das, Student - Punjab, India
 * Tiffany WHite, Front-end - Central PA, US
+* Nnamadim Chike, Web Developer - Lagos, Nigeria
 * Harman Kahlon, Student - Chandigarh, India
 * Allen Shaji, Front-end - Kerala, India
 * Gregory Nicotera, Student - Buffalo, NY, US
