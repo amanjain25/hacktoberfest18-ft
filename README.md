@@ -176,6 +176,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Adrián Peña, Student - Granada, Spain
 * Vishal Das, Student - Punjab, India
 * Tiffany WHite, Front-end - Central PA, US
+* Shuvam Lal, Student - West Bengal,India
 
 > (Add your name, profession and location right above this markdown comment)
 
