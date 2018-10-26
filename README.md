@@ -44,6 +44,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Tanya Vedi, Student - Delhi, India
 * Siddharth, Student - Delhi, India
 * Saakshi, Student- Delhi, India
+* Dipak, Back-end Developer - India
 * Adrian teri, Student - Kenya, Nairobi
 * Dylan, Student - Toronto, Canada
 * Nelson Chinedu, Student - Nigeria
@@ -52,6 +53,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Aman Kumar Soni, Student - Jalandhar,India
 * Ganesh Radhaji Sanap, Student - Maharashtra, India.
 * Rafal Kruk, Developer - Leeds, UK
+* Nicolás Walter, Developer - Buenos Aires, Argentina
 * Vishal Anand, Student - Himachal Pradesh, India
 * Giovanni Nuño, Student - Guanajuato, Mexico
 * Shad Grimgravy, Developer - Michigan
@@ -157,7 +159,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Martina Safaric, Frontend developer - Cakovec, Croatia 
 * Raghuvar, Student - india
 * Sushmita Sah, Student,India
-* Bradley Van Dyne, Billing specialist (call center) - Washington, USA 
+* Bradley Van Dyne, Billing specialist (call center) - Washington, USA
 * Niral Pokal, Software Developer - California, USA
 * Christian Martínez, Computer Engineer - Barcelona, Spain
 * Ankita Kumari , Student - Jharkhand, India
@@ -168,6 +170,27 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Leo Yeung, Full Stack - London, UK
 * Prakash Ujjwal,student - New Delhi, India
 * Harsh Gupta , Student - Guwahati, India
+* Dilan David, Business Analyst - Ohio, USA
+* Leticia Barbosa, Student - São Paulo, Brasil
+* Feysal Ikbal, Developer - Finland
+* Ilya Lapshin, Student - Madrid, Spain
+* Adrian Müller, Student - Erfurt, Germany
+* swt02026 , Backend Dev, Taiwan
+* Alexandre Barbier, Web Developer - Paris, France
+* clD11 , student - Glasgow, UK
+* Facundo Lujan, Student - Buenos Aires, Argentina
+* Tia Esguerra, Student - California, USA
+* Shahzad Mirza, Software Engineer, Pakistan
+* Doug Pilcher, Developer - Indiana, USA
+* Rutuja Dicholkar,student-Mumbai,India
+* n0z, Student - Spain
+* Denis Skiba, front-end developer - Russia
+* Manas Khurana, Student - New Delhi, India
+* Alka Singh , Student - Jharkhand, India
+* Vijit Shrivastava, Student - Bhopal, India
+* Sai, student - bangalore,India
+* Hazim , Developer - Kuala Lumpur, Malaysia
+* Shreyansh Jain,Student - New Delhi,India
 * Rahul Sivagnanam, Student - Trichy, India
 * Alan Li, Student - Taoyuan, Taiwan
 * Adrián Peña, Student - Granada, Spain
