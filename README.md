@@ -170,6 +170,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Leo Yeung, Full Stack - London, UK
 * Prakash Ujjwal,student - New Delhi, India
 * Harsh Gupta , Student - Guwahati, India
+* Leticia Barbosa, Student - São Paulo, Brasil
 * Feysal Ikbal, Developer - Finland
 * Ilya Lapshin, Student - Madrid, Spain
 * Adrian Müller, Student - Erfurt, Germany
