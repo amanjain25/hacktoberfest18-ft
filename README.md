@@ -169,6 +169,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Leo Yeung, Full Stack - London, UK
 * Prakash Ujjwal,student - New Delhi, India
 * Harsh Gupta , Student - Guwahati, India
+* Alka Singh , Student - Jharkhand, India
 * Vijit Shrivastava, Student - Bhopal, India
 * Sai, student - bangalore,India
 * Hazim , Developer - Kuala Lumpur, Malaysia
