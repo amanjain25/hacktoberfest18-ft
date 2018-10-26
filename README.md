@@ -169,6 +169,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Leo Yeung, Full Stack - London, UK
 * Prakash Ujjwal,student - New Delhi, India
 * Harsh Gupta , Student - Guwahati, India
+* n0z, Student - Spain
 * Manas Khurana, Student - New Delhi, India
 * Alka Singh , Student - Jharkhand, India
 * Vijit Shrivastava, Student - Bhopal, India
@@ -179,7 +180,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Alan Li, Student - Taoyuan, Taiwan
 * Adrián Peña, Student - Granada, Spain
 * Vishal Das, Student - Punjab, India
-* Tiffany WHite, Front-end - Central PA, US
+* Tiffany WHite, Front-end - Central PA, USA
 
 > (Add your name, profession and location right above this markdown comment)
 
