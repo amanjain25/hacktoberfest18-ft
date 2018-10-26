@@ -197,6 +197,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Adrián Peña, Student - Granada, Spain
 * Vishal Das, Student - Punjab, India
 * Tiffany WHite, Front-end - Central PA, US
+* Utsav Krish - Varanasi, India
 * Nnamadim Chike, Web Developer - Lagos, Nigeria
 * Harman Kahlon, Student - Chandigarh, India
 * Allen Shaji, Front-end - Kerala, India
