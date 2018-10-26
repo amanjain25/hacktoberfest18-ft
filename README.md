@@ -169,6 +169,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Leo Yeung, Full Stack - London, UK
 * Prakash Ujjwal,student - New Delhi, India
 * Harsh Gupta , Student - Guwahati, India
+* Doug Pilcher, Developer - Indiana, USA
 * Rutuja Dicholkar,student-Mumbai,India
 * n0z, Student - Spain
 * Denis Skiba, front-end developer - Russia
