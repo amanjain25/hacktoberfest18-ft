@@ -52,6 +52,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Aman Kumar Soni, Student - Jalandhar,India
 * Ganesh Radhaji Sanap, Student - Maharashtra, India.
 * Rafal Kruk, Developer - Leeds, UK
+* Nicolás Walter, Developer - Buenos Aires, Argentina
 * Vishal Anand, Student - Himachal Pradesh, India
 * Giovanni Nuño, Student - Guanajuato, Mexico
 * Shad Grimgravy, Developer - Michigan
@@ -154,6 +155,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Aviral Chauhan, Student - Patiala,India
 * Ashmeet Kaur , Student - New Delhi, India
 * Juan Ignacio Noli Villar, Student - Buenos Aires, Argentina
+* Martina Safaric, Frontend developer - Cakovec, Croatia 
 * Raghuvar, Student - india
 * Sushmita Sah, Student,India
 * Bradley Van Dyne, Billing specialist (call center) - Washington, USA 
@@ -167,8 +169,20 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Leo Yeung, Full Stack - London, UK
 * Prakash Ujjwal,student - New Delhi, India
 * Harsh Gupta , Student - Guwahati, India
+* Rutuja Dicholkar,student-Mumbai,India
 * n0z, Student - Spain
 * Denis Skiba, front-end developer - Russia
+* Manas Khurana, Student - New Delhi, India
+* Alka Singh , Student - Jharkhand, India
+* Vijit Shrivastava, Student - Bhopal, India
+* Sai, student - bangalore,India
+* Hazim , Developer - Kuala Lumpur, Malaysia
+* Shreyansh Jain,Student - New Delhi,India
+* Rahul Sivagnanam, Student - Trichy, India
+* Alan Li, Student - Taoyuan, Taiwan
+* Adrián Peña, Student - Granada, Spain
+* Vishal Das, Student - Punjab, India
+* Tiffany WHite, Front-end - Central PA, USA
 
 > (Add your name, profession and location right above this markdown comment)
 
