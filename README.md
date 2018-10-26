@@ -171,6 +171,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Harsh Gupta , Student - Guwahati, India
 * Rutuja Dicholkar,student-Mumbai,India
 * n0z, Student - Spain
+* Denis Skiba, front-end developer - Russia
 * Manas Khurana, Student - New Delhi, India
 * Alka Singh , Student - Jharkhand, India
 * Vijit Shrivastava, Student - Bhopal, India
