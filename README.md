@@ -44,6 +44,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Tanya Vedi, Student - Delhi, India
 * Siddharth, Student - Delhi, India
 * Saakshi, Student- Delhi, India
+* Dipak, Back-end Developer - India
 * Adrian teri, Student - Kenya, Nairobi
 * Dylan, Student - Toronto, Canada
 * Nelson Chinedu, Student - Nigeria
