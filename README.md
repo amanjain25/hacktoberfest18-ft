@@ -195,7 +195,8 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Alan Li, Student - Taoyuan, Taiwan
 * Adrián Peña, Student - Granada, Spain
 * Vishal Das, Student - Punjab, India
-* Tiffany WHite, Front-end - Central PA, USA
+* Tiffany WHite, Front-end - Central PA, US
+* Sinan Tomruk, Student - Ankara, Turkey
 
 > (Add your name, profession and location right above this markdown comment)
 
