@@ -52,6 +52,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Aman Kumar Soni, Student - Jalandhar,India
 * Ganesh Radhaji Sanap, Student - Maharashtra, India.
 * Rafal Kruk, Developer - Leeds, UK
+* Nicolás Walter, Developer - Buenos Aires, Argentina
 * Vishal Anand, Student - Himachal Pradesh, India
 * Giovanni Nuño, Student - Guanajuato, Mexico
 * Shad Grimgravy, Developer - Michigan
