@@ -226,7 +226,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - [All GitHub issues labeled Hacktoberfest and a language like JavaScript](https://github.com/search?l=JavaScript&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue&type=Issues)
 
 ## A word of caution
-  When working with git with a world wide team you may be making changes at the same time someone else is, if you both change the same file there could be "merge conflicts". Rememeber to "git pull" or "git fetch" and resolve merge conflicts locally before attempting to create a "pull request".
+  When working with git with a world wide team you may be making changes at the same time someone else is, if you both change the same file there could be "merge conflicts". Remember to "git pull" or "git fetch" and resolve merge conflicts locally before attempting to create a "pull request".
 
 ## There are many ways to create a pull request
   1. You can fork a project and compare across forks. Choose this option if you plan to contribute more than once.
