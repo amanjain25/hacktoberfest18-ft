@@ -207,8 +207,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Gregory Nicotera, Student - Buffalo, NY, US
 * Doug Dobies, Cloud Engineer - Texas, USA
 * Sinan Tomruk, Student - Ankara, Turkey
-
-> (Add your name, profession and location right above this markdown comment)
+* Shoto Akaneri, Student - Oxford, England> (Add your name, profession and location right above this markdown comment)
 
 ## What should I do next for Hacktoberfest'18?
   1. If you wanted to offer more code changes to this repo you could edit/add any files/code and then follow a similar workflow.
