@@ -26,7 +26,7 @@ Example: <b>\* Rohit Swami, Student - Haryana, India </b>
 
 You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-ft/) for the list of contributors with a minimum of one merged commit to this repository with their gravatar. If you want to know more about a contributor, click on their gravatar to go to their github profile.
 
-# Amazing Contributors
+# Amazing Contributors :heart:
 
 * Rohit Swami, Student - Haryana, India
 * Aditi Pandey, Student - UP, India :fire:
@@ -157,7 +157,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Aviral Chauhan, Student - Patiala,India
 * Ashmeet Kaur , Student - New Delhi, India
 * Juan Ignacio Noli Villar, Student - Buenos Aires, Argentina
-* Martina Safaric, Frontend developer - Cakovec, Croatia 
+* Martina Safaric, Frontend developer - Cakovec, Croatia
 * Raghuvar, Student - india
 * Sushmita Sah, Student,India
 * Bradley Van Dyne, Billing specialist (call center) - Washington, USA
@@ -208,6 +208,11 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Doug Dobies, Cloud Engineer - Texas, USA
 * Sinan Tomruk, Student - Ankara, Turkey
 * Alisha, Student - India
+* Sanjana Kukreja,Student - Indore,India
+* Nishay Madhani,Student - Mumbai, India
+* Shoto Akaneri, Student - Oxford, England
+* Max, Developer - Bangkok, Thailand
+* Fidel Lim, Student - Abu Dhabi, UAE
 
 > (Add your name, profession and location right above this markdown comment)
 
@@ -227,7 +232,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - [All GitHub issues labeled Hacktoberfest and a language like JavaScript](https://github.com/search?l=JavaScript&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue&type=Issues)
 
 ## A word of caution
-  When working with git with a world wide team you may be making changes at the same time someone else is, if you both change the same file there could be "merge conflicts". Rememeber to "git pull" or "git fetch" and resolve merge conflicts locally before attempting to create a "pull request".
+  When working with git with a world wide team you may be making changes at the same time someone else is, if you both change the same file there could be "merge conflicts". Remember to "git pull" or "git fetch" and resolve merge conflicts locally before attempting to create a "pull request".
 
 ## There are many ways to create a pull request
   1. You can fork a project and compare across forks. Choose this option if you plan to contribute more than once.
