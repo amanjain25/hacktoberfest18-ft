@@ -215,7 +215,8 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Nishay Madhani,Student - Mumbai, India
 * Shoto Akaneri, Student - Oxford, England
 * Max, Developer - Bangkok, Thailand
-* Fidel Lim, Student - Abu Dhabi, UAE
+* Fidel Lim, Student - Abu Dhabi, UA
+* Ben, Student - US
 
 > (Add your name, profession and location right above this markdown comment)
 
