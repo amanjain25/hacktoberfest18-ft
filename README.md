@@ -208,6 +208,8 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Doug Dobies, Cloud Engineer - Texas, USA
 * Sinan Tomruk, Student - Ankara, Turkey
 * Max, Developer - Bangkok, Thailand
+* Fidel Lim, Student - Abu Dhabi, UAE
+
 > (Add your name, profession and location right above this markdown comment)
 
 ## What should I do next for Hacktoberfest'18?
