@@ -207,6 +207,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Gregory Nicotera, Student - Buffalo, NY, US
 * Doug Dobies, Cloud Engineer - Texas, USA
 * Sinan Tomruk, Student - Ankara, Turkey
+* Vishal Sehgal, Student - Haryana, India
 * No1CanButMe, Student - China
 * Alisha, Student - India
 * Sanjana Kukreja,Student - Indore,India
