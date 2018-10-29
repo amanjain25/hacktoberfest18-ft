@@ -60,6 +60,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Shad Grimgravy, Developer - Michigan
 * Grady Houston, Developer - Washington, D.C., USA
 * Tristan Caulfield, Team Lead - Memphis, Tennessee, USA
+* Anulika Banerjee, Dev - Bengaluru, India
 * Anthony Young, Fullstack Javascript Developer - London, UK
 * Aditya Gaur, Student - Jalandhar, India
 * Vidushi Jain, Student - Noida, India
@@ -215,8 +216,9 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Nishay Madhani,Student - Mumbai, India
 * Shoto Akaneri, Student - Oxford, England
 * Max, Developer - Bangkok, Thailand
-* Fidel Lim, Student - Abu Dhabi, UA
 * Ben, Student - US
+* Fidel Lim, Student - Abu Dhabi, UAE
+* Passawat Norman, Student - Bangkok, Thailand
 
 > (Add your name, profession and location right above this markdown comment)
 
