@@ -217,6 +217,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Shoto Akaneri, Student - Oxford, England
 * Max, Developer - Bangkok, Thailand
 * Fidel Lim, Student - Abu Dhabi, UAE
+* Passawat Norman, Student - Bangkok, Thailand
 
 > (Add your name, profession and location right above this markdown comment)
 
