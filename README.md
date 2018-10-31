@@ -49,6 +49,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - Adrian teri, Student - Kenya, Nairobi
 - Dylan, Student - Toronto, Canada
 - Nelson Chinedu, Student - Nigeria
+- Janvi Chhabra, Student-IIITB, Bangalore, India
 - Aman Kumar Soni, Student - Jalandhar,India
 - Joseph, Student - India
 - Aman Kumar Soni, Student - Jalandhar,India
@@ -219,6 +220,13 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - Fidel Lim, Student - Abu Dhabi, UAE
 - Alibh Deori, Full Stack Developer - Assam, India
 - Craig Stevens, Student - Montana, USA
+- Jeff Pinckney, Student - Utah, United States
+- Burak Korman, Student - Konya,Turkey
+- Varun G, Front End Developer - Bengaluru, India
+- Kabir Nagpal, Student- India
+- Aishwarya Sachdeva, Software Developer - Delhi, India
+- Harry Potter, Student - Turkey
+- Sarat Maharjan, Civil Engineer - Kathmandu, Nepal
 
 > (Add your name, profession and location right above this markdown comment)
 
