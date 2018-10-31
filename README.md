@@ -218,7 +218,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - Ben, Student - US
 - Fidel Lim, Student - Abu Dhabi, UAE
 - Alibh Deori, Full Stack Developer - Assam, India
-
+- Craig Stevens, Student - Montana, USA
 
 > (Add your name, profession and location right above this markdown comment)
 
