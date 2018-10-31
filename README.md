@@ -218,8 +218,8 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - Ben, Student - US
 - Fidel Lim, Student - Abu Dhabi, UAE
 - Alibh Deori, Full Stack Developer - Assam, India
+- Harry Potter, Student - Turkey
 - Sarat Maharjan, Civil Engineer - Kathmandu, Nepal
-
 
 > (Add your name, profession and location right above this markdown comment)
 
