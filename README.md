@@ -228,6 +228,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - Aishwarya Sachdeva, Software Developer - Delhi, India
 - Harry Potter, Student - Turkey
 - Sarat Maharjan, Civil Engineer - Kathmandu, Nepal
+- Kerim Hakan Sırrı, Student - Konya, Turkey
 
 > (Add your name, profession and location right above this markdown comment)
 
