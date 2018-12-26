@@ -228,7 +228,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - Aishwarya Sachdeva, Software Developer - Delhi, India
 - Harry Potter, Student - Turkey
 - Sarat Maharjan, Civil Engineer - Kathmandu, Nepal
-
+- Panth Parikh, Software Developer - Windsor, Canada
 > (Add your name, profession and location right above this markdown comment)
 
 ## What should I do next for Hacktoberfest'18?
