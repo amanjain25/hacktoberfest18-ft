@@ -50,6 +50,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - Dylan, Student - Toronto, Canada
 - Nelson Chinedu, Student - Nigeria
 - Janvi Chhabra, Student-IIITB, Bangalore, India
+- Ruy , student, Cambodia
 - Aman Kumar Soni, Student - Jalandhar,India
 - Joseph, Student - India
 - Aman Kumar Soni, Student - Jalandhar,India
