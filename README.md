@@ -100,6 +100,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - Divay Garg, Student- Delhi, India
 - Vidisha Sethi,Student- India
 - Damodar Lohani, Developer- Nepal
+- Mvskiran,Andhrapradesh-India
 - Cade knight, Student, USA
 - Sapan Patel, Systems Engineer - New Jersey, USA
 - Jose Chavez, Student - Southern California
@@ -229,6 +230,8 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - Harry Potter, Student - Turkey
 - Sarat Maharjan, Civil Engineer - Kathmandu, Nepal
 - Irem Sahin, Student - Konya,Turkey
+- Kerim Hakan Sırrı, Student - Konya, Turkey
+- Maria Michailidou, Automation Undergraduate -Greece
 
 > (Add your name, profession and location right above this markdown comment)
 
