@@ -229,6 +229,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - Aishwarya Sachdeva, Software Developer - Delhi, India
 - Harry Potter, Student - Turkey
 - Sarat Maharjan, Civil Engineer - Kathmandu, Nepal
+- Megan Maton, Student - UK
 - Robert Duncan, Director of Operations - Atlanta, GA, USA
 - Irem Sahin, Student - Konya,Turkey
 - Kerim Hakan Sırrı, Student - Konya, Turkey
