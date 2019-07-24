@@ -232,6 +232,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - Aishwarya Sachdeva, Software Developer - Delhi, India
 - Harry Potter, Student - Turkey
 - Sarat Maharjan, Civil Engineer - Kathmandu, Nepal
+- Sotherny, Student - Phnom Penh, Cambodia
 - Panth Parikh, Software Developer - Windsor, Canada
 - Sean Hance, Student - Atlanta, GA, USA
 - Rebecca Medrano, Teacher - California, USA
