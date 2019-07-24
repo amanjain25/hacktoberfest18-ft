@@ -50,6 +50,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - Dylan, Student - Toronto, Canada
 - Nelson Chinedu, Student - Nigeria
 - Janvi Chhabra, Student-IIITB, Bangalore, India
+- Ruy , student, Cambodia
 - Aman Kumar Soni, Student - Jalandhar,India
 - Joseph, Student - India
 - Aman Kumar Soni, Student - Jalandhar,India
@@ -100,6 +101,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - Divay Garg, Student- Delhi, India
 - Vidisha Sethi,Student- India
 - Damodar Lohani, Developer- Nepal
+- Mvskiran,Andhrapradesh-India
 - Cade knight, Student, USA
 - Sapan Patel, Systems Engineer - New Jersey, USA
 - Jose Chavez, Student - Southern California
@@ -112,6 +114,8 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - Kamry Bowman, Front-End Developer, Denver, CO
 - Hélio Marcondes, Front-end Developer - Sao Paulo, Brazil
 - Sukma Ragil, Quality Assurance - Jakarta, Indonesia
+- Phon Sokpheaktra, University Student, -Phnom Penh, Cambodia
+- Happer Dopilea, Worker -Phnom Penh, Cambodia
 - Adam Fadhil, Developer - Jakarta, Indonesia
 - Manish Kumar , Student (BIT M ) - Ranchi , India
 - Alessandro Digilio, Student - Pistoia,Italy
@@ -229,6 +233,15 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - Harry Potter, Student - Turkey
 - Sarat Maharjan, Civil Engineer - Kathmandu, Nepal
 - Sotherny, Student - Phnom Penh, Cambodia
+- Panth Parikh, Software Developer - Windsor, Canada
+- Sean Hance, Student - Atlanta, GA, USA
+- Rebecca Medrano, Teacher - California, USA
+- Megan Maton, Student - UK
+- Robert Duncan, Director of Operations - Atlanta, GA, USA
+- Irem Sahin, Student - Konya,Turkey
+- Kerim Hakan Sırrı, Student - Konya, Turkey
+- Maria Michailidou, Automation Undergraduate -Greece
+
 > (Add your name, profession and location right above this markdown comment)
 
 ## What should I do next for Hacktoberfest'18?
