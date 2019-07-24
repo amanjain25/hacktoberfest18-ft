@@ -113,6 +113,8 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - Kamry Bowman, Front-End Developer, Denver, CO
 - Hélio Marcondes, Front-end Developer - Sao Paulo, Brazil
 - Sukma Ragil, Quality Assurance - Jakarta, Indonesia
+- Phon Sokpheaktra, University Student, -Phnom Penh, Cambodia
+- Happer Dopilea, Worker -Phnom Penh, Cambodia
 - Adam Fadhil, Developer - Jakarta, Indonesia
 - Manish Kumar , Student (BIT M ) - Ranchi , India
 - Alessandro Digilio, Student - Pistoia,Italy
