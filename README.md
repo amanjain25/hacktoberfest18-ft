@@ -24,7 +24,7 @@ Example: <b>\- Rohit Swami, Student - Haryana, India </b>
 
 # Hall of Fame for Contributors :sunglasses:
 
-You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-ft/) for the list of contributors with a minimum of one merged commit to this repository with their gravatar. If you want to know more about a contributor, click on their gravatar to go to their github profile.
+You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest19-first-timer/) for the list of contributors with a minimum of one merged commit to this repository with their gravatar. If you want to know more about a contributor, click on their gravatar to go to their github profile.
 
 # Amazing Contributors :heart:
 
@@ -244,7 +244,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 
 > (Add your name, profession and location right above this markdown comment)
 
-## What should I do next for Hacktoberfest'18?
+## What should I do next for Hacktoberfest'19?
 
 1. If you wanted to offer more code changes to this repo you could edit/add any files/code and then follow a similar workflow.
 
