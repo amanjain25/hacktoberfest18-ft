@@ -1,4 +1,4 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## What is Hacktoberfest'18?
 Hacktoberfest is a global event which motivates open source contributors to boost up their contribution. As well as it is a month-long celebration of open source software in partnership with GitHub. In addition to that by contributing to this challenge you can earn a limited edition T-Shirt.
@@ -48,3 +48,4 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Tristan Caulfield, Team Lead - Memphis, Tennessee, USA
 * Anthony Young, Fullstack Javascript Developer - London, UK
 * Vidushi Jain, Student - Noida, India
+* Jithu Biju, Student -Kerala,India
