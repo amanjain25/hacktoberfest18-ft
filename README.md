@@ -48,3 +48,4 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 * Tristan Caulfield, Team Lead - Memphis, Tennessee, USA
 * Anthony Young, Fullstack Javascript Developer - London, UK
 * Vidushi Jain, Student - Noida, India
+* Tharun K, Student - Bangalore,India
