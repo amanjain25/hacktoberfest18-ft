@@ -21,7 +21,9 @@ Example: <b>* Rohit Swami, Student - Haryana, India </b>
 
 # Amazing Contributors :heart:
 
+
 1. Rohit Swami, Student - Haryana, India
+* Amar Ranjan, Kanpur - UP, India
 * Rohit Swami, Student - Haryana, India
 * Max Grosshandler, Student - Chicago, Illinois, USA
 * Aman Jain, Student - Himachal Pradesh, India
